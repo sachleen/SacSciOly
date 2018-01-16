@@ -1,0 +1,9 @@
+{% extends "base.twig" %}
+{% block title %}{{ meta["title"] }}{% endblock %}
+
+{% block content %}
+    <section>
+        <h1>{{ meta["title"] }}</h1>
+        {{ content|raw }}
+    </section>
+{% endblock %}

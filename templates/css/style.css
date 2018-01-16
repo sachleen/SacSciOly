@@ -1,0 +1,227 @@
+/* Global Styles
+   ========================================================================== */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    font-color: #1d1d1d;
+    font-family: 'Segoe UI', sans-serif;
+}
+.wrapper {
+    max-width: 1250px;
+    margin: 0 auto;
+    display:block;
+}
+
+h1 {
+    font-size: 200%;
+    display: block;
+    margin:0;
+    margin-bottom: 20px;
+    color:#387F35;
+}
+
+h2 {
+    font-size: 150%;
+    display: block;
+    margin:0;
+    padding-bottom: 3px;
+    border-bottom: 3px solid #387F35;
+}
+
+a {
+    text-decoration: none;
+    color: #387F35;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+a.button-link {
+    border: 2px solid #387F35;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+a.button-link:hover {
+    color:#FFF;
+    background-color: #48a344;
+    text-decoration: none;
+}
+
+p {
+    line-height: 150%;
+    margin: 15px 0;
+}
+
+/* Header
+   ========================================================================== */
+header {
+    background-color: #387f35;
+    color:#fff;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    white-space: nowrap;
+}
+
+header a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 75%;
+}
+
+footer #sponsors {
+    padding: 0;
+    list-style: none;
+}
+
+footer #sponsors li {
+    display: inline;
+    margin: 0 10px;
+}
+
+address {
+    font-style: normal;
+}
+
+/*
+    Navigation
+    ========================================================================== */
+nav ul {
+    padding: 0;
+    list-style: none;
+    margin: 0 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav_right {
+    margin-left: auto;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    display: block;
+    padding: 0 10px;
+
+}
+
+nav a:hover {
+    text-decoration: none;
+    background-color:#214c1f;
+    text-shadow:0px 0px 1px #FFF;
+}
+
+@media all and (max-width: 800px) {
+    nav ul {
+        /* When on medium sized screens, we center it by evenly distributing empty space around items */
+        justify-content: flex-start;
+    }
+}
+
+@media all and (max-width: 500px) {
+    nav ul {
+        /* On small screens, we are no longer using row direction but column */
+        flex-direction: column;
+    }
+    nav ul li {
+        margin-right: 0;
+        text-align: center;
+    }
+    nav li:first-child a {
+        padding-left: 10px;
+    }
+    nav li:last-child a {
+        padding-right: 10px;
+    }
+    nav a {
+        display: block;
+    }
+}
+
+/*
+    Content pages
+    ========================================================================== */
+.parent {
+    display: flex;
+    
+}
+.left {
+    flex-grow: 1;
+}
+.right section {
+    min-width: 300px;
+    box-sizing: border-box;
+    margin:  0 0 15px 0;
+}
+.right img {
+    width: 300px;
+}
+.right ul {
+    padding: 0;
+    list-style: none;
+}
+
+section {
+    padding: 0 10px 0;
+}
+
+@media all and (max-width: 800px) {
+    .parent {
+        flex-direction: column;
+    }
+    .right {
+        order: 1;
+    }
+    .left {
+        order: 0;
+    }
+    .right img {
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+/*
+    Archive
+    ========================================================================== */
+#archive {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#archive ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+    font-size: 125%;
+}
+
+#archive .date {
+    min-width: 150px;
+    display: inline-block;
+}
+
+@media all and (max-width: 500px) {
+    #archive .date {
+        min-width: 0;
+        display: block;
+    }
+    
+    #archive a {
+        display: block;
+    }
+}

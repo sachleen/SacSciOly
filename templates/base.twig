@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    {% block head %}
+    <meta charset="utf-8" />
+    <title>{% block title %}{% endblock %} - Sacramento Science Olympiad</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ BASE_URL }}/css/normalize.css" />
+    <link rel="stylesheet" href="{{ BASE_URL }}/css/style.css" />
+    {% endblock %}
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <nav>
+            <ul role="navigation">
+                <li><a href="{{ BASE_URL }}">Home</a></li>
+                <li><a href="{{ BASE_URL }}/pages/competition-info/">Competition Info</a></li>
+                <li><a href="{{ BASE_URL }}/">Registration</a></li>
+                <li><a href="{{ BASE_URL }}/">Invitationals</a></li>
+                <li><a href="{{ BASE_URL }}/">Coaches Info</a></li>
+                <li><a href="{{ BASE_URL }}/">About</a></li>
+                <li><a href="{{ BASE_URL }}/">Results</a></li>
+                <li><a href="{{ BASE_URL }}/">Questions</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    {% block content %}{% endblock %}
+    
+    <footer>
+    Thanks to our sponsors
+        <ul id="sponsors">
+            <li><img src="{{ BASE_URL }}/images/ClassicAwards.png" /></li>
+            <li><img src="{{ BASE_URL }}/images/SMUD.gif" /></li>
+        </ul>
+        <p id="poweredBy">Design by <a href="http://smcummings.com">SMCummings</a> | Made with <a href="https://github.com/sachleen/Steady">Steady</a></p>
+    </footer>
+</div>
+</body>
+</html>
