@@ -18,7 +18,7 @@
             <h2>Announcements</h2>
             {% for post in posts|slice(0, 10) %}
             <article>
-            <h3><a href="pages/{{ post.metadata.slug }}/">{{ post.metadata.title|e }}</a> - {{ post.metadata.date }}</h3>
+            <h3><a href="pages/{{ post.metadata.slug }}/">{{ post.metadata.title|e }}</a> - {{ post.metadata.date|date("M d, Y")  }}</h3>
             {{ post.content|TruncateP(2)|raw }}
             <a href="pages/{{ post.metadata.slug }}/">Click here to continue reading.</a>
             </article>
