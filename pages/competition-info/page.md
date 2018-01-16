@@ -14,64 +14,90 @@ Click the button below to download the latest version of the event schedule
 You can read more about each event on the Science Olympiad Website: [www.soinc.org][NationalSite]
 
 ### Division B Events
-- LIFE, PERSONAL & SOCIAL SCIENCE
- - Anatomy and Physiology
- - Disease Detectives
- - Ecology
- - Herpetology
- - Microbe Mission
-- EARTH AND SPACE SCIENCE
- - Dynamic Planet
- - Meteorology
- - Road Scholar
- - Rocks and Minerals
- - Solar System
-- PHYSICAL SCIENCE & CHEMISTRY
- - Crime Busters
- - Hovercraft
- - Optics
- - Potions and Poisons
- - Thermodynamics
-- TECHNOLOGY & ENGINEERING
- - Battery Buggy
- - Roller Coaster
- - Towers
- - Wright Stuff
-- INQUIRY & NATURE OF SCIENCE
- - Experimental Design
- - Fast Facts
- - Mystery Architecture
- - Write It Do It
+
+<div class="eventsGrid">
+<div class="eventsContainer" markdown="1">
+#### Life, Personal &amp; Social Science
+- Anatomy and Physiology
+- Disease Detectives
+- Ecology
+- Herpetology
+- Microbe Mission
+</div>
+<div class="eventsContainer" markdown="1">
+#### Earth And Space Science
+- Dynamic Planet
+- Meteorology
+- Road Scholar
+- Rocks and Minerals
+- Solar System
+</div>
+<div class="eventsContainer" markdown="1">
+#### Physical Science & Chemistry
+- Crime Busters
+- Hovercraft
+- Optics
+- Potions and Poisons
+- Thermodynamics
+</div>
+<div class="eventsContainer" markdown="1">
+#### Technology & Engineering
+- Battery Buggy
+- Roller Coaster
+- Towers
+- Wright Stuff
+</div>
+<div class="eventsContainer" markdown="1">
+#### Inquiry & Nature of Science
+- Experimental Design
+- Fast Facts
+- Mystery Architecture
+- Write It Do It
+</div>
+</div>
 
 ### Division C Events
-- LIFE, PERSONAL & SOCIAL SCIENCE
- - Anatomy and Physiology
- - Disease Detectives
- - Ecology
- - Herpetology
- - Microbe Mission
-- EARTH AND SPACE SCIENCE
- - Astronomy
- - Dynamic Planet
- - Remote Sensing
- - Rocks and Minerals
-- PHYSICAL SCIENCE & CHEMISTRY
+
+<div class="eventsGrid">
+<div class="eventsContainer" markdown="1">
+#### Life, Personal & Social Science
+- Anatomy and Physiology
+- Disease Detectives
+- Ecology
+- Herpetology
+- Microbe Mission
+</div>
+<div class="eventsContainer" markdown="1">
+#### Earth And Space Science
+- Astronomy
+- Dynamic Planet
+- Remote Sensing
+- Rocks and Minerals
+</div>
+<div class="eventsContainer" markdown="1">
+#### Physical Science & Chemistry
  - Chemistry Lab
  - Forensics
  - Hovercraft
  - Materials Science
  - Optics
  - Thermodynamics
-- TECHNOLOGY & ENGINEERING
+</div>
+<div class="eventsContainer" markdown="1">
+#### Technology & Engineering
  - Helicopters
  - Mission Possible
  - Mousetrap Vehicle
  - Towers
-- INQUIRY & NATURE OF SCIENCE
+</div>
+<div class="eventsContainer" markdown="1">
+#### Inquiry & Nature Of Science
  - Experimental Design
  - Fermi Questions
  - Game On
  - Write It Do It
+</div>
+</div>
 
 ## Competition Rules
 
