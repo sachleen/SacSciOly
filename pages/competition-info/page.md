@@ -8,7 +8,8 @@ The Division A tournament will be held on March 17, 2018 at Mira Loma High Schoo
 
 Click the button below to download the latest version of the event schedule
 
-[Download Event Schedule](schedule.doc) {.button-link}
+[Download Event Schedule Division B/C](schedule-bc.doc) {.button-link}
+[Download Event Schedule Division A](schedule-a.xls) {.button-link}
 
 ## Competition Events
 You can read more about each event on the Science Olympiad Website: [www.soinc.org][NationalSite]
@@ -98,6 +99,27 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Write It Do It
 </div>
 </div>
+
+### Division A Events
+- A is for Anatomy
+- Bridge Building
+- Calculator Contest
+- Can Race
+- Chopper Challenge **NEW EVENT
+- Crime Busters
+- Don’t Bug Me
+- Dynamic Planet **NEW EVENT
+- Egg Drop
+- Herpetology **NEW EVENT
+- Leaf and Tree
+- Marshmallow Catapult **NEW EVENT
+- Metric Mastery
+- Mystery Architecture
+- Rock Hound
+- Science Bowl 
+- Starry, Starry Night
+- Water Rockets
+- Write It, Do It
 
 ## Competition Rules
 
