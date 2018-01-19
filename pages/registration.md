@@ -1,6 +1,6 @@
 Title: Registration
 Date: 2018-01-16 1:08 PM
-Template: post
+Template: post.twig
 ===
 
 Registration deadline is January 17, 2018.
@@ -9,19 +9,20 @@ Registration deadline is January 17, 2018.
 
 The following teams are registered and have been given team numbers:
 
-[Team Names and Numbers](School-Names-and-Numbers.doc) {.button-link}
+[Division B/C Team Names and Numbers](/assets/registration/School-Names-and-Numbers-Divbc.doc) {.button-link}
+[Division A Team Names and Numbers](/assets/registration/School-Names-and-Numbers-Diva.doc) {.button-link}
 
 ## How to Register
 
 For complete registration information, please refer to the following documents:
 
-[Registration Information Division B/C](Registration-Form-BC.doc) {.button-link}
-[Registration Information Division A](Registration-Form-A.doc) {.button-link}
+[Registration Information Division B/C](/assets/registration/Registration-Form-BC.doc) {.button-link}
+[Registration Information Division A](/assets/registration/Registration-Form-A.doc) {.button-link}
 
 **Step 1:** Download and fill out the registration form
 
-[Download Division B/C Registration Form](Registration-Form-BC.doc) {.button-link}
-[Download Division A Registration Form](Registration-Form-A.doc) {.button-link}
+[Download Division B/C Registration Form](/assets/registration/Registration-Form-BC.doc) {.button-link}
+[Download Division A Registration Form](/assets/registration/Registration-Form-A.doc) {.button-link}
 
 **Step 2:** Mail in registration form and fee.
 
@@ -49,8 +50,3 @@ Each team must provide a minimum of 2 volunteers to help on the day of the event
 
 
 Winning teams will also be responsible for providing volunteers and Event Coordinators for the NorCal State Science Olympiad.
-
-
-
-
-[NationalSite]: https://www.soinc.org/

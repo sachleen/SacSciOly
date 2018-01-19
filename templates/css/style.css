@@ -30,6 +30,15 @@ h2 {
     border-bottom: 3px solid #387F35;
 }
 
+h3 {
+    margin: 20px 0 0 0;
+    font-size: 150%;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
 a {
     text-decoration: none;
     color: #387F35;
@@ -71,6 +80,11 @@ table thead th {
 table tbody td {
     padding: 5px;
 }
+
+.center {
+    text-align: center;
+}
+
 /* Header
    ========================================================================== */
 header {
@@ -170,9 +184,13 @@ nav a:hover {
 /*
     Content pages
     ========================================================================== */
+.postTitle span {
+    color:#696969;
+    float: right;
+}
+
 .parent {
     display: flex;
-    
 }
 .left {
     flex-grow: 1;

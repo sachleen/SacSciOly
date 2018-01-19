@@ -5,8 +5,8 @@
     <meta charset="utf-8" />
     <title>{% block title %}{% endblock %} - Sacramento Science Olympiad</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="{{ BASE_URL }}/css/normalize.css" />
-    <link rel="stylesheet" href="{{ BASE_URL }}/css/style.css" />
+    <link rel="stylesheet" href="{{ BASE_URL }}/templates/css/normalize.css" />
+    <link rel="stylesheet" href="{{ BASE_URL }}/templates/css/style.css" />
     {% endblock %}
 </head>
 <body>
@@ -14,12 +14,12 @@
     <header>
         <nav>
             <ul role="navigation">
-                <li><a href="{{ BASE_URL }}">Home</a></li>
-                <li><a href="{{ BASE_URL }}/pages/competition-info/">Competition Info</a></li>
-                <li><a href="{{ BASE_URL }}/pages/registration/">Registration</a></li>
-                <li><a href="{{ BASE_URL }}/pages/coaches-info">Coaches Info</a></li>
-                <li><a href="{{ BASE_URL }}/pages/results">Results</a></li>
-                <li><a href="{{ BASE_URL }}/pages/questions">Questions</a></li>
+                <li><a href="{{ BASE_URL }}/index.html">Home</a></li>
+                <li><a href="{{ BASE_URL }}/pages/competition-info.html">Competition Info</a></li>
+                <li><a href="{{ BASE_URL }}/pages/registration.html">Registration</a></li>
+                <li><a href="{{ BASE_URL }}/pages/coaches-info.html">Coaches Info</a></li>
+                <li><a href="{{ BASE_URL }}/pages/results.html">Results</a></li>
+                <li><a href="{{ BASE_URL }}/pages/questions.html">Questions</a></li>
             </ul>
         </nav>
     </header>
@@ -29,8 +29,8 @@
     <footer>
     Thanks to our sponsors
         <ul id="sponsors">
-            <li><img src="{{ BASE_URL }}/images/ClassicAwards.png" /></li>
-            <li><img src="{{ BASE_URL }}/images/SMUD.gif" /></li>
+            <li><img src="{{ BASE_URL }}/templates/images/ClassicAwards.png" /></li>
+            <li><img src="{{ BASE_URL }}/templates/images/SMUD.gif" /></li>
         </ul>
         <p id="poweredBy">Design by <a href="http://smcummings.com">SMCummings</a> | Made with <a href="https://github.com/sachleen/Steady">Steady</a></p>
     </footer>

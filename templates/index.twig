@@ -4,27 +4,24 @@
 {% block content %}
     <div class="parent">
         <div class="left">
-            <section>
-            <h1>Sacramento Science Olympiad</h1>
-            <p>The Science Olympiad is an national science competition that features schools from all 50 states with more than 15,000 K-12 schools participating. The goal of the Science Olympiad is to increase K-12 student and teacher participation in Science, Technology, Engineering and Math (STEM). The Science Olympiad competitions feature several STEM related events at the regional, state, and national levels.
-            </section>
-            
-            <section>
-            <h2>Getting Started</h2>
-            <p>Parents can contact the science teachers at their children's school to join or start a team. Teachers can contact James Hill about starting and coaching a team.</p>
-            </section>
-            
+            {{ content|raw }}
             <section>
             <h2>Announcements</h2>
             {% for post in posts|slice(0, 10) %}
             <article>
-            <h3><a href="pages/{{ post.metadata.slug }}/">{{ post.metadata.title|e }}</a> - {{ post.metadata.date|date("M d, Y")  }}</h3>
+            <h3 class="postTitle"><span>{{ post.metadata.date|date("M d, Y")  }}</span><a href="posts/{{ post.metadata.slug }}.html">{{ post.metadata.title|e }}</a></h3>
             {{ post.content|TruncateP(2)|raw }}
-            <a href="pages/{{ post.metadata.slug }}/">Click here to continue reading.</a>
+            <a href="posts/{{ post.metadata.slug }}.html">Click here to continue reading.</a>
             </article>
             {% else %}
             No posts.
             {% endfor %}
+            </section>
+            
+            <section class="center">
+                <p>
+                    <a href="archive.html">View Past Updates</a>
+                </p>
             </section>
         </div>
         <div class="right">

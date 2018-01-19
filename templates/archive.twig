@@ -7,7 +7,7 @@
         {% if posts|length > 0 %}
         <ul>
         {% for post in posts %}
-            <li><span class="date">{{ post.metadata.timestamp|date('M j, Y') }}</span> <a href="{{ BASE_URL }}/pages/{{ post.metadata.slug }}">{{ post.metadata.title }}</a></li>
+            <li><span class="date">{{ post.metadata.timestamp|date('M j, Y') }}</span> <a href="{{ BASE_URL }}/posts/{{ post.metadata.slug }}.html">{{ post.metadata.title }}</a></li>
         {% endfor %}
         </ul>
         {% endif %}

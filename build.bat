@@ -1,0 +1,1 @@
+php "C:\Users\sachleen\Desktop\Steady\run.php" config.ini
