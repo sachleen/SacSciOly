@@ -16,8 +16,8 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 
 ### Division B Events
 
-<div class="eventsGrid">
-<div class="eventsContainer" markdown="1">
+<div class="gridContainer">
+<div class="gridBox" markdown="1">
 #### Life, Personal &amp; Social Science
 - Anatomy and Physiology
 - Disease Detectives
@@ -25,7 +25,7 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 - Herpetology
 - Microbe Mission
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Earth And Space Science
 - Dynamic Planet
 - Meteorology
@@ -33,7 +33,7 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 - Rocks and Minerals
 - Solar System
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Physical Science & Chemistry
 - Crime Busters
 - Hovercraft
@@ -41,14 +41,14 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 - Potions and Poisons
 - Thermodynamics
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Technology & Engineering
 - Battery Buggy
 - Roller Coaster
 - Towers
 - Wright Stuff
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Inquiry & Nature of Science
 - Experimental Design
 - Fast Facts
@@ -59,8 +59,8 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 
 ### Division C Events
 
-<div class="eventsGrid">
-<div class="eventsContainer" markdown="1">
+<div class="gridContainer">
+<div class="gridBox" markdown="1">
 #### Life, Personal & Social Science
 - Anatomy and Physiology
 - Disease Detectives
@@ -68,14 +68,14 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 - Herpetology
 - Microbe Mission
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Earth And Space Science
 - Astronomy
 - Dynamic Planet
 - Remote Sensing
 - Rocks and Minerals
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Physical Science & Chemistry
  - Chemistry Lab
  - Forensics
@@ -84,14 +84,14 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Optics
  - Thermodynamics
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Technology & Engineering
  - Helicopters
  - Mission Possible
  - Mousetrap Vehicle
  - Towers
 </div>
-<div class="eventsContainer" markdown="1">
+<div class="gridBox" markdown="1">
 #### Inquiry & Nature Of Science
  - Experimental Design
  - Fermi Questions

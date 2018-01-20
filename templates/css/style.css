@@ -238,20 +238,20 @@ section {
 /*
     Competition Info Page
     ========================================================================== */
-.eventsGrid {
+.gridContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.eventsContainer {
+.gridBox {
     min-width: 300px;
     box-sizing: border-box;
     border: 1px solid #b5b6ab;
     margin: 10px;
 }
 
-.eventsContainer h4 {
+.gridBox h4 {
     font-size: 100%;
     margin: 0;
     background-color:#f6f7f2;
@@ -259,11 +259,18 @@ section {
     color:#387F35;
 }
 
-.eventsContainer ul {
+.gridBox ul {
     list-style: none;
     margin: 0;
     padding: 10px;
     line-height: 150%;
+}
+
+.gridBox ol {
+    list-style: decimal;
+    line-height: 150%;
+    margin: 0;
+    padding: 10px 10px 10px 30px;
 }
 
 /*
