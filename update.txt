@@ -1,7 +1,0 @@
-Yearly
-=====
-Update dates on:
-    templates/index.twig
-    competition-info/page.md
-    templates/sidebar.twig
-Get latest brochure from: https://www.soinc.org/snapshots/2018-brochure
