@@ -5,7 +5,6 @@ Template: post.twig
 
 ## 2017 Results
 
-
 <div class="gridContainer">
     <div class="gridBox" markdown="1">
     #### A Division
