@@ -190,9 +190,8 @@ nav a:hover {
 }
 .postTitle span {
     color:#696969;
-    position: absolute;
-    bottom: 0;
-    right: 0;
+    float: right;
+    margin-top: 5px;
     font-size: 70%;
 }
 
@@ -232,6 +231,13 @@ section {
     .right img {
         display: block;
         margin: 0 auto;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .postTitle span {
+        float: none;
+        display: block;
     }
 }
 

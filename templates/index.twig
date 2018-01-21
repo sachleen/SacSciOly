@@ -9,7 +9,7 @@
             <h2>Announcements</h2>
             {% for post in posts|slice(0, 10) %}
             <article>
-            <h3 class="postTitle"><span>{{ post.metadata.date|date("M d, Y")  }}</span><a href="posts/{{ post.metadata.slug }}.html">{{ post.metadata.title|e }}</a></h3>
+            <h3 class="postTitle"><a href="posts/{{ post.metadata.slug }}.html">{{ post.metadata.title|e }}</a><span>{{ post.metadata.date|date("M d, Y")  }}</span></h3>
             {{ post.content|TruncateP(2)|raw }}
             <a href="posts/{{ post.metadata.slug }}.html">Click here to continue reading.</a>
             </article>
