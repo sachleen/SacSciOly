@@ -1,0 +1,79 @@
+Title: Questions
+Date: 2018-01-16 2:04 PM
+Template: post.twig
+===
+<form id="contactForm" name="contactForm" method="POST" action="../assets/post.php">
+    <fieldset>
+        <legend><h2>General Questions</h2></legend>
+        <div>
+            <label for="userName">Name</label>
+            <input class="xlarge required" id="userName" name="userName" size="30" type="text">
+        </div>
+        <div>
+            <label for="userEmail">Email</label>
+            <input class="xlarge required email" id="userEmail" name="userEmail" size="30" type="text">
+        </div>
+        <div>
+            <label for="subject">Subject</label>
+            <input class="xlarge required" id="subject" name="subject" size="30" type="text">
+        </div>
+        <div>
+            <label for="message">Message</label>
+            <textarea class="xxlarge required" id="message" name="message" rows="5"></textarea>
+        </div>
+        <div class="actions">
+            <button name="submit" type="submit" value="submitContact">Send</button>
+        </div>
+    </fieldset>
+</form>
+
+<form id="clarificationForm" name="clarificationForm" method="POST" action="../assets/post.php">
+    <fieldset>
+        <legend><h2>Event Rule Clarifications</h2></legend>
+        <div>
+            <label for="userName">Your Name</label>
+            <input class="xlarge required" id="userName" name="userName" size="30" type="text">
+        </div>
+        <div>
+            <label for="userEmail">Email</label>
+            <input class="xlarge required email" id="userEmail" name="userEmail" size="30" type="text">
+        </div>
+        <div>
+            <label for="teamName">School Name</label>
+            <input class="xlarge required" id="teamName" name="teamName" size="30" type="text">
+        </div>
+        <div>
+            <label for="eventName">Event</label>
+            <div class="help-block">Include event name and division</div>
+            <input class="xlarge required" id="eventName" name="eventName" size="30" type="text">
+        </div>
+        <div>
+            <label for="section">Section Number</label>
+            <div class="help-block">1, 2, 3, etc. (Description, Event Parameters, etc.)</div>
+            <input class="xlarge required" id="section" name="section" size="30" type="text">
+        </div>
+        <div>
+            <label for="paragraph">Paragraph Number</label>
+            <div class="help-block">a, b, c, etc.</div>
+            <input class="xlarge required" id="paragraph" name="paragraph" size="30" type="text">
+        </div>
+        <div>
+            <label for="subParagraph">Sub-paragraph Number</label>
+            <div class="help-block">i, ii, iii, iv, etc.</div>
+            <input class="xlarge required" id="subParagraph" name="subParagraph" size="30" type="text">
+        </div>
+        <div>
+            <label for="line">Line Number</label>
+            <div class="help-block">1, 2, 3, etc. (Line number in paragraph where statement begins)</div>
+            <input class="xlarge required number" id="line" name="line" size="30" type="text">
+        </div>
+        <div>
+            <label for="question">Your Question</label>
+            <div class="help-block">Limit of ONE question per FAQ (maximum 50 words). If more than 1 question is asked, only the 1st question will be answered.</div>
+            <textarea class="xxlarge required" id="question" name="question" rows="5" wordCount="50"></textarea>
+        </div>
+        <div class="actions">
+            <button name="submit" type="submit" value="submitClarification">Submit Clarification</button>
+        </div>
+    </fieldset>
+</form>

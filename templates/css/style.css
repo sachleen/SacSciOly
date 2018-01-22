@@ -52,6 +52,7 @@ a.button-link {
     border-radius: 5px;
     padding: 5px 10px;
     display: inline-block;
+    margin: 5px;
 }
 
 a.button-link:hover {
@@ -184,9 +185,14 @@ nav a:hover {
 /*
     Content pages
     ========================================================================== */
+.postTitle {
+    position: relative;
+}
 .postTitle span {
     color:#696969;
     float: right;
+    margin-top: 5px;
+    font-size: 70%;
 }
 
 .parent {
@@ -228,23 +234,30 @@ section {
     }
 }
 
+@media all and (max-width: 500px) {
+    .postTitle span {
+        float: none;
+        display: block;
+    }
+}
+
 /*
     Competition Info Page
     ========================================================================== */
-.eventsGrid {
+.gridContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.eventsContainer {
+.gridBox {
     min-width: 300px;
     box-sizing: border-box;
     border: 1px solid #b5b6ab;
     margin: 10px;
 }
 
-.eventsContainer h4 {
+.gridBox h4 {
     font-size: 100%;
     margin: 0;
     background-color:#f6f7f2;
@@ -252,11 +265,18 @@ section {
     color:#387F35;
 }
 
-.eventsContainer ul {
+.gridBox ul {
     list-style: none;
     margin: 0;
     padding: 10px;
     line-height: 150%;
+}
+
+.gridBox ol {
+    list-style: decimal;
+    line-height: 150%;
+    margin: 0;
+    padding: 10px 10px 10px 30px;
 }
 
 /*
@@ -289,4 +309,68 @@ section {
     #archive a {
         display: block;
     }
+}
+
+/*
+    Questions
+    ========================================================================== */
+form {
+    margin-bottom: 20px;
+}
+
+fieldset {
+    border: 0;
+    padding: 0;
+}
+
+fieldset legend {
+    width: 100%;
+}
+
+label {
+    display: block;
+    padding: 5px 0 0;
+}
+
+input[type=text], textarea {
+    display: block;
+    border: 1px solid;
+    padding: 5px 10px;
+    min-width: 300px;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+
+textarea {
+    max-width: 600px;
+    width: 100%;
+}
+
+input[type=text]:focus, textarea:focus {
+    border-color: #387F35;
+    box-shadow: 0 0 3px #387F35;
+}
+
+.help-block {
+    font-size: 70%;
+}
+
+.actions {
+    margin: 10px 0;
+}
+
+button {
+    padding: 7px 15px;
+    cursor: pointer;
+    background-color:#387F35;
+    border: 1px solid #b5b6ab;
+    color:#FFF;
+    border-radius: 3px;
+}
+
+button:focus {
+    background-color:#214c1f;
+    border: 1px solid #387F35;
+    color:#387F35;
+    color:#FFF;
 }

@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, serif;
+    margin: 0;
+    font-size: 14px;
+    background: #EEE;
+}
+
+a, a:visited { color:#0E84C6; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+#container {
+    margin: 15% auto 0;
+    width: 400px;
+    background-color:#FFF;
+    padding: 10px 20px;
+    border-radius: 10px 10px;
+    border: 1px solid #ccc;
+    text-align:center;
+}
+
+.info, .success, .warning, .error, .validation {
+    border: 1px solid;
+    margin: 10px 0px;
+    padding: 5px 10px;
+    font-weight: bold;
+    line-height: 22px;
+    border-radius: 5px 5px;
+}
+.info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+.success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+.warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+.error {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
