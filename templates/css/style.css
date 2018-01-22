@@ -341,6 +341,11 @@ input[type=text], textarea {
     border-radius: 3px;
 }
 
+textarea {
+    max-width: 600px;
+    width: 100%;
+}
+
 input[type=text]:focus, textarea:focus {
     border-color: #387F35;
     box-shadow: 0 0 3px #387F35;
@@ -353,15 +358,19 @@ input[type=text]:focus, textarea:focus {
 .actions {
     margin: 10px 0;
 }
+
 button {
-    padding: 5px 10px;
+    padding: 7px 15px;
     cursor: pointer;
-    background-color:#f6f7f2;
+    background-color:#387F35;
     border: 1px solid #b5b6ab;
+    color:#FFF;
+    border-radius: 3px;
 }
 
 button:focus {
-    background-color:#387F35;
+    background-color:#214c1f;
     border: 1px solid #387F35;
+    color:#387F35;
     color:#FFF;
 }
