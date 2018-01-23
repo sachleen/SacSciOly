@@ -4,3 +4,9 @@ Header set Cache-Control "max-age=2592000, public"
 </filesMatch>
 
 Options -Indexes
+
+# Start CloudFlare:sacramentoscienceolympiad.com rewrite. Do not Edit 
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^sacramentoscienceolympiad.com 
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L] 
+# End CloudFlare rewrite. 
