@@ -97,7 +97,8 @@ header {
 
 header h1 {
     margin: 0;
-    white-space: nowrap;
+    margin-left: 20px;
+    color:#FFF;
 }
 
 header a {
@@ -123,6 +124,14 @@ footer #sponsors li {
 
 address {
     font-style: normal;
+}
+
+@media all and (max-width: 500px) {
+    header h1 {
+        font-size: 150%;
+        margin: 0;
+        text-align: center;
+    }
 }
 
 /*
@@ -183,6 +192,31 @@ nav a:hover {
 }
 
 /*
+    Index Page
+    ========================================================================== */
+#intro {
+    display: flex;
+}
+#intro img {
+    width: 300px;
+    margin-right: 20px;
+}
+
+@media all and (max-width: 800px) {
+    #intro {
+        flex-direction: column;
+    }
+    #intro div#logo {
+        text-align: center;
+    }
+    #intro img {
+        width: 100%;
+        max-width: 300px;
+        margin: 0;
+    }
+}
+
+/*
     Content pages
     ========================================================================== */
 .postTitle {
@@ -228,9 +262,8 @@ section {
     .left {
         order: 0;
     }
-    .right img {
-        display: block;
-        margin: 0 auto;
+    .right section {
+        width: 100%;
     }
 }
 
@@ -290,7 +323,7 @@ section {
 #archive ul {
     list-style: none;
     margin: 0;
-    padding: 0 10px 10px;
+    padding: 0; 
     line-height: 150%;
     font-size: 125%;
 }
