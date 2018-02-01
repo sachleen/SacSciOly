@@ -164,6 +164,30 @@ nav a:hover {
     text-shadow:0px 0px 1px #FFF;
 }
 
+#search {
+    flex-grow: 3;
+    margin-right: 0;
+    text-align: right;
+}
+
+#search form {
+    margin: 0;
+}
+
+#search input {
+    margin: 0;
+    min-width: auto;
+    display: inline;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+#search input[type=text] {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+
 @media all and (max-width: 800px) {
     nav ul {
         /* When on medium sized screens, we center it by evenly distributing empty space around items */

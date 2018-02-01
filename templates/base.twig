@@ -21,6 +21,12 @@
                 <li><a href="{{ BASE_URL }}/pages/coaches-info.html">Coaches Info</a></li>
                 <li><a href="{{ BASE_URL }}/pages/results.html">Results</a></li>
                 <li><a href="{{ BASE_URL }}/pages/questions.html">Questions</a></li>
+                <li id="search">
+                    <form action="http://www.duckduckgo.com/" method="get" id="duck-duck-go-search">
+                        <input type="hidden" value="{{ BASE_URL }}" name="sites">
+                        <input type="text" value="" size="20" name="q" placeholder="search">
+                    </form>
+                </li>
             </ul>
         </nav>
     </header>
