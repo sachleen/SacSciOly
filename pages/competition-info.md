@@ -128,13 +128,18 @@ The rules are copyrighted and may not be placed on any website. Copies of the Ru
 Teams may have no more than 15 students. Schools may enter multiple teams if space is available. Each team must have their own coach. Division C teams may have a maximum of seven 12th graders. Division B teams may have a maximum of five 9th graders.
 
 [Official Competition Rules](/assets/competition-info/Official_NorCal_Tourn_Rules.pdf) {.button-link}
-[Conduct Agreement](/assets/competition-info/NorCal_Conduct_Agreement.doc) {.button-link}
+[NorCal Conduct Agreement](/assets/competition-info/NorCal_Conduct_Agreement.doc) {.button-link}
+[Sacramento Conduct Agreement](/assets/competition-info/Sac_Conduct_Agreement.pdf) {.button-link}
 
 ### Rules Clarifications
 
 You can submit specific questions about rules to the Science Olympiad organization.
 
 [Submit Questions](/pages/questions.html) {.button-link}
+
+## Other Competition Documents
+
+- [NorCal Team List and Device Authentication Statement](/assets/competition-info/NorCal_Official_Team_List.doc)
 
 ## Competition Location
 The competition will be held at:

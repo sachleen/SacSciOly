@@ -15,6 +15,11 @@ First Coaches Meeting    | Oct 11, 2017 | 4-5PM  | [Agenda][1] | [Agenda][2]
 Second Coaches Meeting   | Jan 17, 2018 | 4-5PM  | [Notes][3]  | [Notes][4]
 Third Coaches Meeting    | Canceled |   |  |
 
+## Other Documents
+
+- [Team ID Form Division B](/assets/coaches-info/Division-BC/Team_ID_B_Form.doc)
+- [Team ID Form Division C](/assets/coaches-info/Division-BC/Team_ID_C_Form.doc)
+
 [1]: /assets/coaches-info/Division-A/diva-meeting-1-agenda.doc
 [2]: /assets/coaches-info/Division-BC/divbc-meeting-1-agenda.doc
 [3]: /posts/2018-01-19-Second-Diva-Coaches-Meeting-Documents.html
