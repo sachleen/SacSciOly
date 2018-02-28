@@ -226,6 +226,13 @@ nav a:hover {
     margin-right: 20px;
 }
 
+#countdown {
+    font-weight: bold;
+}
+#regional-countdown {
+    font-weight: normal;
+}
+
 @media all and (max-width: 800px) {
     #intro {
         flex-direction: column;
