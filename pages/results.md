@@ -2,6 +2,31 @@ Title: Results
 Date: 2018-01-16 2:04 PM
 Template: post.twig
 ===
+## 2018 Results
+
+<div class="gridContainer">
+    <div class="gridBox" markdown="1">
+    #### A Division
+    No results yet.
+    </div>
+    <div class="gridBox" markdown="1">
+    #### B Division &middot; [Click for full report](/assets/results/2018DivB.pdf)
+    1. Winston Churchill MS-A
+    2. Arden MS-A
+    3. Pomolita MS-A
+    4. Barrett MS
+    5. Rolling Hills MS
+    </div>
+    <div class="gridBox" markdown="1">
+    #### C Division &middot; [Click for full report](/assets/results/2018DivC.pdf)
+    1. Mira Loma HS-A
+    2. Pleasant Grove HS-A
+    3. Sheldon HS
+    4. Bella Vista HS-A
+    5. Oak Ridge HS
+    </div>
+</div>
+
 
 ## 2017 Results
 
