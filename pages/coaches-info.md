@@ -13,7 +13,7 @@ Meeting                  | Date         | Time   | Div A       | Div B/C
 -------                  | ----         | ----   | ---         | ---
 First Coaches Meeting    | Oct 11, 2017 | 4-5PM  | [Agenda][1] | [Agenda][2]
 Second Coaches Meeting   | Jan 17, 2018 | 4-5PM  | [Notes][3]  | [Notes][4]
-Third Coaches Meeting    | Canceled |   |  |
+Third Coaches Meeting    | Mar 14, 2018 | 4-5PM  |  |
 
 ## Other Documents
 
