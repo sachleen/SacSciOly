@@ -6,8 +6,12 @@ Template: post.twig
 
 <div class="gridContainer">
     <div class="gridBox" markdown="1">
-    #### A Division
-    No results yet.
+    #### A Division &middot; [Click for full report](/assets/results/2018DivA.pdf)
+    1. Del Paso Manor Elementary
+    2. Deterding Elementary-A
+    3. Phoenix Schools-Folsom
+    4. Mission Avenue-A
+    5. Mission Avenue-B
     </div>
     <div class="gridBox" markdown="1">
     #### B Division &middot; [Click for full report](/assets/results/2018DivB.pdf)
