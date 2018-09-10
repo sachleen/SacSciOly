@@ -16,8 +16,8 @@ The following teams are registered and have been given team numbers:
 
 For complete registration information, please refer to the following documents:
 
-[Registration Information Division B/C](/assets/registration/Registration-Form-BC.doc) {.button-link}
-[Registration Information Division A](/assets/registration/Registration-Form-A.doc) {.button-link}
+[Registration Information Division B/C](/assets/registration/Registration-Information-BC.doc) {.button-link}
+[Registration Information Division A](/assets/registration/Registration-Information-A.doc) {.button-link}
 
 **Step 1:** Download and fill out the registration form
 
