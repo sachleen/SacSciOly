@@ -106,22 +106,20 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 - CESSNA Propeller Propulsion
 - Crime Busters
 - Dynamic Planet
-- Estimania **NEW EVENT
-- Fossil Find **NEW EVENT
+- Estimania***NEW EVENT
+- Fossil Find***NEW EVENT
 - Herpetology
 - Leaf and Tree
 - Marshmallow Catapult
 - Metric Mastery
 - Mystery Architecture
-- Paper Rockets **NEW EVENT
+- Paper Rockets***NEW EVENT
 - Rock Hound
 - Science Bowl 
-- Scrambled Eggs **NEW EVENT
+- Scrambled Eggs***NEW EVENT
 - Starry, Starry Night
-- Straw Tower **NEW EVENT
+- Straw Tower***NEW EVENT
 - Water Rockets
-- Write It, Do It
-
 
 
 ## Competition Rules

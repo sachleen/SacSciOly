@@ -14,9 +14,12 @@ The following teams are registered and have been given team numbers:
 
 ## How to Register
 
+Going forward, we will have an online team registration website. Click here for more details: [Online Team Registration Information](/assets/registration/2019-WEBSITE-Registration-Info.docx)
+
 For complete registration information, please refer to the following documents:
 
 [Registration Information Division B/C](/assets/registration/Registration-Information-BC.doc) {.button-link}
+[Intent to Participate Division A](/assets/registration/Intent-to-Participate-A.doc) {.button-link}
 [Registration Information Division A](/assets/registration/Registration-Information-A.doc) {.button-link}
 
 **Step 1:** Download and fill out the registration form

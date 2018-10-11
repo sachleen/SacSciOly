@@ -9,9 +9,11 @@ All important documents and meeting notes will be uploaded here. For questions a
 
 Meetings will be held at Mira Loma High School, 4000 Edison Avenue, Sacramento, CA 95821 in Room F-3. The first coaches meeting will be geared towards "new coaches and new teams".
 
-Meeting                  | Date         | Time   | Div A       | Div B/C
--------                  | ----         | ----   | ---         | ---
-First Coaches Meeting    | Oct 3, 2018 | 5PM  |  | 
+Meeting                    | Date         | Time   | Div A       | Div B/C
+-------                    | ----         | ----   | ---         | ---
+First Coaches Meeting (A)  | Oct 10, 2018 | 4-5PM  | [Notes][1] | 
+First Coaches Meeting (B/C)  | Oct 10, 2018 | 5-6PM  |  | 
+
 
 <!--Second Coaches Meeting   | Jan 17, 2018 | 4-5PM  | [Notes][3]  | [Notes][4]
 Third Coaches Meeting    | Mar 14, 2018 | 4-5PM  |  |
