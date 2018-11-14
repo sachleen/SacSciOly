@@ -2,13 +2,13 @@ Title: Competition Information
 Date: 2018-01-15 1:52 PM
 Template: post.twig
 ===
-The Sacramento Regional Science Olympiad is on March 3, 2018 at Mira Loma High School.
+The Sacramento Regional Science Olympiad is on March 2, 2019 at Mira Loma High School.
 
 The Division A tournament will be held on March 17, 2018 at Mira Loma High School.
 
 Click the button below to download the latest version of the event schedule
 
-[Download Event Schedule Division B/C](/assets/competition-info/schedule-bc.doc) {.button-link}
+[Download Event Schedule Division C](/assets/competition-info/schedule-c.xlsx) {.button-link}
 [Download Event Schedule Division A](/assets/competition-info/schedule-a.xls) {.button-link}
 
 ## Competition Events
@@ -19,41 +19,41 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 <div class="gridContainer">
 <div class="gridBox" markdown="1">
 #### Life, Personal &amp; Social Science
-- Anatomy and Physiology
-- Disease Detectives
-- Ecology
-- Herpetology
-- Microbe Mission
+ - Anatomy and Physiology
+ - Disease Detectives
+ - Heredity
+ - Herpetology
+ - Water Quality
 </div>
 <div class="gridBox" markdown="1">
 #### Earth And Space Science
-- Dynamic Planet
-- Meteorology
-- Road Scholar
-- Rocks and Minerals
-- Solar System
+ - Dynamic Planet
+ - Fossils
+ - Meteorology
+ - Road Scholar
+ - Solar System
 </div>
 <div class="gridBox" markdown="1">
 #### Physical Science & Chemistry
-- Crime Busters
-- Hovercraft
-- Optics
-- Potions and Poisons
-- Thermodynamics
+ - Circuit Lab
+ - Crime Busters
+ - Density Lab
+ - Potions and Poisons
+ - Thermodynamics
 </div>
 <div class="gridBox" markdown="1">
 #### Technology & Engineering
-- Battery Buggy
-- Roller Coaster
-- Towers
-- Wright Stuff
+ - Battery Buggy
+ - Boomilever
+ - Elastic Launched Gliders
+ - Roller Coaster
 </div>
 <div class="gridBox" markdown="1">
 #### Inquiry & Nature of Science
-- Experimental Design
-- Fast Facts
-- Mystery Architecture
-- Write It Do It
+ - Experimental Design
+ - Game On
+ - Mystery Architecture
+ - Write It Do It
 </div>
 </div>
 
@@ -62,40 +62,40 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
 <div class="gridContainer">
 <div class="gridBox" markdown="1">
 #### Life, Personal & Social Science
-- Anatomy and Physiology
-- Disease Detectives
-- Ecology
-- Herpetology
-- Microbe Mission
+ - Anatomy and Physiology
+ - Designer Genes
+ - Disease Detectives
+ - Herpetology
+ - Water Quality
 </div>
 <div class="gridBox" markdown="1">
 #### Earth And Space Science
-- Astronomy
-- Dynamic Planet
-- Remote Sensing
-- Rocks and Minerals
+ - Astronomy
+ - Dynamic Planet
+ - Fossils
+ - GeoLogic Mapping
 </div>
 <div class="gridBox" markdown="1">
 #### Physical Science & Chemistry
  - Chemistry Lab
+ - Circuit Lab
  - Forensics
- - Hovercraft
- - Materials Science
- - Optics
+ - Protein Modeling
+ - Sounds of Music
  - Thermodynamics
 </div>
 <div class="gridBox" markdown="1">
 #### Technology & Engineering
- - Helicopters
+ - Boomilever
  - Mission Possible
  - Mousetrap Vehicle
- - Towers
+ - Wright Stuff
 </div>
 <div class="gridBox" markdown="1">
 #### Inquiry & Nature Of Science
+ - Codebusters
  - Experimental Design
  - Fermi Questions
- - Game On
  - Write It Do It
 </div>
 </div>
