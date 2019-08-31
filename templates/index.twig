@@ -7,7 +7,7 @@
         <div class="left">
             <section>
                 <h2>Announcements</h2>
-                {% for post in posts|slice(0, 10) %}
+                {% for post in posts|slice(0, 3) %}
                     <article>
                     <h3 class="postTitle"><a href="posts/{{ post.metadata.slug }}.html">{{ post.metadata.title|e }}</a><span>{{ post.metadata.date|date("M d, Y")  }}</span></h3>
                     {{ post.content|TruncateP(2)|raw }}

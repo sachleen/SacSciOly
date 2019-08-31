@@ -2,6 +2,7 @@ Title: Registration
 Date: 2018-01-16 1:08 PM
 Template: post.twig
 ===
+**NOTE:** This content is for the 2019 event which has already occured. Please check back later for updated 2020 content.
 
 Registration deadline is January 17, 2018.
 

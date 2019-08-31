@@ -2,13 +2,15 @@ Title: Competition Information
 Date: 2018-01-15 1:52 PM
 Template: post.twig
 ===
+**NOTE:** This content is for the 2019 event which has already occured. Please check back later for updated 2020 content.
+
 The Sacramento Regional Science Olympiad is on March 2, 2019 at Mira Loma High School.
 
 The Division A tournament will be held on March 17, 2018 at Mira Loma High School.
 
 Click the button below to download the latest version of the event schedule
 
-[Download Event Schedule Division C](/assets/competition-info/schedule-c.xlsx) {.button-link}
+[Download Event Schedule Division B/C](/assets/competition-info/schedule-bc.xlsx) {.button-link}
 [Download Event Schedule Division A](/assets/competition-info/schedule-a.xls) {.button-link}
 
 ## Competition Events
