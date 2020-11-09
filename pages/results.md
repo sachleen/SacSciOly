@@ -2,6 +2,27 @@ Title: Results
 Date: 2018-01-16 2:04 PM
 Template: post.twig
 ===
+## 2020 Results
+
+<div class="gridContainer">
+    <div class="gridBox" markdown="1">
+    #### B Division &middot; [Click for full report](/assets/results/2020DivB.pdf)
+    1. Winston Churchill MS-A
+    2. Arden MS-A
+    3. Pomolita MS-A
+    4. Golden Hills Academy
+    5. Smedberg MS
+    </div>
+    <div class="gridBox" markdown="1">
+    #### C Division &middot; [Click for full report](/assets/results/2020DivC.pdf)
+    1. Mira Loma HS-A
+    2. Pleasant Grove HS-A
+    3. Sheldon HS
+    4. Ukiah HS
+    5. Laguna Creek HS-A
+    </div>
+</div>
+
 ## 2019 Results
 
 <div class="gridContainer">

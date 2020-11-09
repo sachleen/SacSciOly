@@ -8,25 +8,18 @@ All important documents and meeting notes will be uploaded here. For questions a
 ## Meeting Schedule
 
 Meetings will be held at Mira Loma High School, 4000 Edison Avenue, Sacramento, CA 95821 in Room F-3. The first coaches meeting will be geared towards "new coaches and new teams".
-<!--
-Meeting                    | Date         | Time   | Div A       | Div B/C
--------                    | ----         | ----   | ---         | ---
-First Coaches Meeting (A)  | Oct 10, 2018 | 4-5PM  | [Notes][1] | 
-First Coaches Meeting (B/C)  | Oct 10, 2018 | 5-6PM  |  | 
-Second Coaches Meeting (B/C)  | Jan 16, 2019 | 5-6PM  | [Notes][5] | [Notes][6]
 
-Second Coaches Meeting   | Jan 17, 2018 | 4-5PM  | [Notes][3]  | [Notes][4]
-Third Coaches Meeting    | Mar 14, 2018 | 4-5PM  |  |
--->
+Meeting                    | Date         | Time              | Div A       | Div B/C
+-------                    | ----         | ----              | ---         | ---
+Coaches Meeting            | Jan 15, 2020 | 4-5PM A, 5-6 B/C  | [Notes][1]  | [Notes][2]
+Coaches Meeting            | Feb 15, 2020 | 4-5PM A, 5-6 B/C  | [Notes][3]  | [Notes][4]
 
 ## Other Documents
 
 - [Team ID Form Division B](/assets/coaches-info/Division-BC/Team_ID_B_Form.doc)
 - [Team ID Form Division C](/assets/coaches-info/Division-BC/Team_ID_C_Form.doc)
 
-[1]: /assets/coaches-info/Division-A/diva-meeting-1-agenda.doc
-[2]: /assets/coaches-info/Division-BC/divbc-meeting-1-agenda.doc
-[3]: /posts/2018-01-19-Second-Diva-Coaches-Meeting-Documents.html
-[4]: /posts/2018-01-19-Second-Divbc-Coaches-Meeting-Documents.html
-[5]: /assets/coaches-info/Division-A/Agenda-2nd-Coachs-Meeting.doc
-[6]: /assets/coaches-info/Division-BC/Agenda-2nd-Coachs-Meeting.doc
+[1]: /assets/coaches-info/Division-A/Agenda-2nd-Coachs-Meeting.doc
+[2]: /assets/coaches-info/Division-BC/Agenda-2nd-Coachs-Meeting.doc
+[3]: /assets/coaches-info/Division-BC/Final_Coaches_Meeting.doc
+[4]: /assets/coaches-info/Division-BC/.doc

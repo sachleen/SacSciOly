@@ -2,8 +2,6 @@ Title: Competition Information
 Date: 2018-01-15 1:52 PM
 Template: post.twig
 ===
-**NOTE:** This content is for the 2019 event which has already occured. Please check back later for updated 2020 content.
-
 The Sacramento Regional Science Olympiad is on March 7, 2020 at Mira Loma High School.
 
 The Division A tournament will be held on March 21, 2020 at Mira Loma High School.
@@ -11,10 +9,49 @@ The Division A tournament will be held on March 21, 2020 at Mira Loma High Schoo
 Click the button below to download the latest version of the event schedule
 
 [Download Event Schedule Division B/C](/assets/competition-info/schedule-bc.xlsx) {.button-link}
-[Download Event Schedule Division A](/assets/competition-info/schedule-a.xls) {.button-link}
+[Download Event Schedule Division A](/assets/competition-info/schedule-a.pdf) {.button-link}
 
 ## Competition Events
 You can read more about each event on the Science Olympiad Website: [www.soinc.org][NationalSite]
+
+B events are for 6-8th grade and C events are fro 9-12th grade.
+
+- Anatomy &amp; Physiology B C
+- Astronomy C
+- Boomilever B C
+- Chemistry Lab C
+- Circuit Lab B C
+- Code Busters C
+- Crime Busters B
+- Density Lab B
+- Designer Genes C
+- Detector Building C
+- Disease Detectives B C
+- Dynamic Planet B C
+- Elastic Launched Glider B
+- Experimental Design B C
+- Food Science B
+- Forensics C
+- Fossils B C
+- Game On B
+- Heredity B
+- Geologic Mapping C
+- Gravity Vehicle C
+- Machines B C
+- Meteorology B
+- Mission Possible B
+- Mousetrap Vehicle B
+- Ornithology B C
+- Ping Pong Parachute B C
+- Protein Modeling C
+- Reach for the Stars B
+- Road Scholar B
+- Sounds of Music C
+- Water Quality B C
+- Wright Stuff C
+- Write It, Do It B C
+
+<!--
 
 ### Division B Events
 
@@ -24,7 +61,7 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Anatomy and Physiology
  - Disease Detectives
  - Heredity
- - Herpetology
+ - Ornithology
  - Water Quality
 </div>
 <div class="gridBox" markdown="1">
@@ -33,28 +70,28 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Fossils
  - Meteorology
  - Road Scholar
- - Solar System
+ - Reach for the Stars
 </div>
 <div class="gridBox" markdown="1">
 #### Physical Science & Chemistry
  - Circuit Lab
  - Crime Busters
  - Density Lab
- - Potions and Poisons
- - Thermodynamics
+ - Food Science
+ - Machines
 </div>
 <div class="gridBox" markdown="1">
 #### Technology & Engineering
- - Battery Buggy
  - Boomilever
  - Elastic Launched Gliders
- - Roller Coaster
+ - Mission Possible
+ - Mousetrap Vehicle
 </div>
 <div class="gridBox" markdown="1">
 #### Inquiry & Nature of Science
  - Experimental Design
  - Game On
- - Mystery Architecture
+ - Ping-Pong Parachute
  - Write It Do It
 </div>
 </div>
@@ -67,7 +104,7 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Anatomy and Physiology
  - Designer Genes
  - Disease Detectives
- - Herpetology
+ - Ornithology
  - Water Quality
 </div>
 <div class="gridBox" markdown="1">
@@ -84,44 +121,46 @@ You can read more about each event on the Science Olympiad Website: [www.soinc.o
  - Forensics
  - Protein Modeling
  - Sounds of Music
- - Thermodynamics
+ - Machines
 </div>
 <div class="gridBox" markdown="1">
 #### Technology & Engineering
  - Boomilever
- - Mission Possible
- - Mousetrap Vehicle
+ - Detector Building
+ - Gravity Vehicle
  - Wright Stuff
 </div>
 <div class="gridBox" markdown="1">
 #### Inquiry & Nature Of Science
  - Codebusters
  - Experimental Design
- - Fermi Questions
+ - Ping-Pong Parachute
  - Write It Do It
 </div>
 </div>
+-->
 
 ### Division A Events
 - A is for Anatomy
 - Can Race
-- CESSNA Propeller Propulsion
 - Crime Busters
 - Dynamic Planet
-- Estimania***NEW EVENT
-- Fossil Find***NEW EVENT
+- Estimania
+- Fossil Find
 - Herpetology
 - Leaf and Tree
-- Marshmallow Catapult
 - Metric Mastery
 - Mystery Architecture
-- Paper Rockets***NEW EVENT
-- Rock Hound
-- Science Bowl 
-- Scrambled Eggs***NEW EVENT
+- Paper Rockets
+- Pasta Mobile***NEW EVENT
+- Science Bowl
+- Scrambled Eggs
 - Starry, Starry Night
-- Straw Tower***NEW EVENT
+- Straw Tower
+- Tennis Ball Catapult***NEW EVENT
 - Water Rockets
+- Weather or Not***NEW EVENT
+- Write It, Do It
 
 
 ## Competition Rules
